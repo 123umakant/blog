@@ -28,7 +28,7 @@ excerpt: In this article, we will explore the various concepts related to Thymel
 ![Thymeleaf Tags](./images/thymeleafTag.png)
 
 
-## Thymeleaf template processing?
+## Thymeleaf template processing
 
 Thymeleaf can process **six** kinds of templates out of the box.
 each of them is called Template Mode.
@@ -50,7 +50,7 @@ Here is the screenshot of thymeleaf template working:
 ![Thymeleaf Engine](./images/thymeleafEngine.png)
 
 
-## Thymeleaf template working?
+## Thymeleaf template working
 
 In a web app, thymeleaf is processed on the server. The processed result included in the HTML and then  return to the browser.
 
@@ -115,7 +115,7 @@ Spring boot will look for static resources in a static resource directory.
 ![Thymeleaf add js file](./images/jsAdd.png)
 
 
-## Standard dialects?
+## Standard dialects
 
 In thymeleaf, you can define your own set of tags with the name you want. Thymeleaf comes with a set of standard dialects(Spring Standard) which are more than sufficient for basic operations.
 we can identify these standard dialects with prefix **th** prefix.
